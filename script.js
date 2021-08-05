@@ -1,1 +1,3 @@
-{\rtf1}
+document.onload = () => {
+    alert('Teste');
+}
